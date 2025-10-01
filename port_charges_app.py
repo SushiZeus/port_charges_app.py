@@ -19,7 +19,7 @@ st.markdown("""
         margin-bottom: 2rem;
     }
     .result-box {
-        background-color: #f0f2f6;
+        background-color: #2E8B57;
         padding: 15px;
         border-radius: 10px;
         border-left: 5px solid #1f77b4;
